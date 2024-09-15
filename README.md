@@ -1,2 +1,2 @@
 # CodeChef
-Codechef dsa problems solved in competitions
+Codechef dsa problems medium-hard level
